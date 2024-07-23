@@ -1,0 +1,13 @@
+how to learn react
+
+1- go in-depth
+- babel, react fiber, virtual DOM, hydration, diffing algorithm
+
+2- creaing projects
+- todo, calculator, github api
+
+-------------------------------------------------------------------
+
+* React is a Library
+framework - (military) - having strict rules like naming should be same, files must be in some specific folder only, framework are large
+Library - (Cool dude) - there are no rules. no restriction on naming extension. library is short
